@@ -63,3 +63,12 @@ Keep:
 - Asset binary integration: `NOT INTEGRATED`
 
 Do not infer VMA-GRASS-003 creation method from VMA-GRASS-002 records. Do not mark the asset commercially cleared. No additional repository action is authorized by this addendum.
+
+
+## 6. Follow-up Library inventory check (2026-11-22)
+
+A recursive Library listing filtered to image files returned nine image entries in the accessible Library. None was named `1795169202164.jpg`, `1795169265854.jpg`, `0ac4c16e.jpeg`, `41313696.jpeg`, or `input_file_36.png`. The listing contained later terrain comparison/mock-map images and one unrelated timestamped JPEG (`1795244147801.jpeg`); that file is not evidence for either named reference and was not substituted.
+
+A focused content search did surface the VMA-GRASS-002 revision PDF and Gemini production directive. Those documents describe the VMA-GRASS-002 workflow and mention the reference/source-raster filenames, but do not supply the missing standalone reference-image binaries or a direct VMA-GRASS-003 creation record. The VMA-GRASS-002 → VMA-GRASS-003 attribution gap therefore remains open.
+
+**Updated search conclusion:** No matching reference/source-raster image binary is currently present in the recursively listed accessible Library image inventory. This does not rule out copies in an unsearched external location or other account storage.
